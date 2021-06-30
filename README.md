@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 </a>
 
 <!--
-  <a href="https://stackoverflow.com/users/10482516/ahmad-khan?tab=profile">
+  <a href="">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 </a>
 -->
