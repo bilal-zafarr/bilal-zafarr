@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 <br>
 
 ### A Student, Developer & Photographer
-- 🙋‍♂️ A [Developer Student Clubs][dsc] Ambassador at my campus [(PUCIT Lahore)][dscpucit] by Google Developers
+- 🙋‍♂️ A [Developer Student Clubs][dsc] Core Team Member at my campus [(PUCIT Lahore)][dscpucit] by Google Developers
 - 💻 Working in MERN Stack
 - 🤔 Exploring AI and Data Science
 - ⚡ Love travelling and reading
