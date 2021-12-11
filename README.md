@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 ### A Student, Developer & Photographer
 - 🙋‍♂️ A [Developer Student Clubs][dsc] Core Team Member at my campus [(PUCIT Lahore)][dscpucit] by Google Developers
-- 💻 Working in MERN Stack
+- 💻 Working as Web Developer
 - 🤔 Exploring AI and Data Science
 - ⚡ Love travelling and reading
 
