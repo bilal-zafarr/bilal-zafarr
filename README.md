@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 </div>
 <br>
 
-### A Student, Developer & Photographer
+### A Student, Developer & Explorer
 - 🙋‍♂️ A [Developer Student Clubs][dsc] Core Team Member at my campus [(PUCIT Lahore)][dscpucit] by Google Developers
 - 💻 Working as Web Developer
 - 🤔 Exploring AI and Data Science
@@ -50,8 +50,8 @@ Here are some ideas to get you started:
 
 ### Languages & Tools
 
-<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img width=50px height=30px src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress"></code>
+<code><img width=30px height=30px src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg"></code>
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"></code>
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
