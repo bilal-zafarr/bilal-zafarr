@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 <summary>📝 My GitHub Stats</summary>
 <br>
 
-[![Bilal's github stats](https://github-readme-stats.vercel.app/api?username=bilal-zafarr&theme=gotham)](https://github.com/rmahmadkhan/github-readme-stats)
+[![Bilal's github stats](https://github-readme-stats.vercel.app/api?username=bilal-zafarr&theme=gotham)](https://github.com/bilal-zafarr/github-readme-stats)
 ![Bilal's Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bilal-zafarr&theme=gotham&hide_langs_below=1&layout=compact)
 
 </details>
